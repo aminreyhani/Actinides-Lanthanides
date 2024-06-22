@@ -1,0 +1,16 @@
+,Element,Symbol,Atomic_number,Period,Atomic_weight,Density,Melting_point,Boiling_point,Specific_heat_capacity,Electro_negativity
+0,Actinium,Ac,89,7,227,10.07,1323,3471,0.12,1.1
+1,Thorium,Th,90,7,232.0377,11.72,2115,5061,0.113,1.3
+2,Protactinium,Pa,91,7,231.03588,15.37,1841,4300,NULL,1.5
+3,Uranium,U,92,7,238.02891,18.95,1405.3,4404,0.116,1.38
+4,Neptunium,Np,93,7,237,20.45,917,4273,NULL,1.36
+5,Plutonium,Pu,94,7,244,19.85,912.5,3501,NULL,1.28
+6,Americium,Am,95,7,243,13.69,1449,2880,NULL,1.13
+7,Curium,Cm,96,7,247,13.51,1613,3383,NULL,1.28
+8,Berkelium,Bk,97,7,247,14.79,1259,2900,NULL,1.3
+9,Californium,Cf,98,7,251,15.1,1173,1743,NULL,1.3
+10,Einsteinium,Es,99,7,252,8.84,1133,1269,NULL,1.3
+11,Fermium,Fm,100,7,257,9.7,1125,NULL,NULL,1.3
+12,Mendelevium,Md,101,7,258,10.3,1100,NULL,NULL,1.3
+13,Nobelium,No,102,7,259,9.9,1100,NULL,NULL,1.3
+14,Lawrencium,Lr,103,7,266,15.6,1900,NULL,NULL,1.3
